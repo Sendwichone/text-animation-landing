@@ -1,9 +1,9 @@
-# text-animation-landing<!DOCTYPE html>
-<html lang="ru">
+<!DOCTYPE html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Текстовая Анимация | Fiverr</title>
+    <title>Text Animation | Fiverr</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -43,10 +43,10 @@
 </head>
 <body>
     <div class="container">
-        <h1>Профессиональная текстовая анимация</h1>
-        <p>Создаю стильные анимированные тексты для рекламы, видео и презентаций.</p>
-        <p>Качественно, быстро, креативно!</p>
-        <a href="https://www.fiverr.com/s/5rkG0a4" class="button" target="_blank">Заказать на Fiverr</a>
+        <h1>Professional Text Animation</h1>
+        <p>I create stylish animated text for ads, videos, and presentations.</p>
+        <p>High quality, fast delivery, creative solutions!</p>
+        <a href="https://www.fiverr.com/YOUR_LINK" class="button" target="_blank">Order on Fiverr</a>
     </div>
 </body>
 </html>
